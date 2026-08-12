@@ -383,6 +383,7 @@ var dial = &dialect.Dialect{
 		&MessageRangingBeacon{},
 		&MessageEstimatorSensorFusionStatus{},
 		&MessageManualInputStatus{},
+		&MessageEfiPerformance{},
 		// pythonarraytest
 		&MessageArrayTest_0{},
 		&MessageArrayTest_1{},
