@@ -395,10 +395,6 @@ var dial = &dialect.Dialect{
 		&MessageArrayTest_8{},
 		// test
 		&MessageTestTypes{},
-		// ualberta
-		&MessageNavFilterBias{},
-		&MessageRadioCalibration{},
-		&MessageUalbertaSysStatus{},
 		// storm32
 		&MessageStorm32GimbalManagerInformation{},
 		&MessageStorm32GimbalManagerStatus{},
